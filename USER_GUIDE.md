@@ -544,7 +544,7 @@ The online version is hosted by Aiuto Computer Help.
 Website:
 
 ~~~text
-https://www.aiutocomputerhelp.it/
+https://www.aiutocomputerhelp.it/meshtastic-node-map-builder-analyzer.php
 ~~~
 
 Project page:
