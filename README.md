@@ -147,7 +147,7 @@ It can be useful for radio tests, antenna experiments, mapping observed nodes, c
 
 The online version is available at:
 
-https://www.aiutocomputerhelp.it/
+https://www.aiutocomputerhelp.it/meshtastic-node-map-builder-analyzer.php
 
 Project page:
 
